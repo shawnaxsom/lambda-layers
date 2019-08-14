@@ -15,6 +15,7 @@ layers:
 plugins:
   - serverless-wsgi
   - serverless-python-requirements
+  - serverless-aws-alias
 custom:
   wsgi:
     app: app.__hug_wsgi__
