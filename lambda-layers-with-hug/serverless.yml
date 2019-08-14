@@ -1,4 +1,4 @@
-service: bdso-auth
+service: lambda-layers-with-hug
 
 provider:
   name: aws
